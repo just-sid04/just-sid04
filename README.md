@@ -138,7 +138,7 @@ SMDR Govt Polytechnic, Dhule (2020–2023)
 
 <p align="center">
   <b>💬 Let’s build something impactful!</b><br>
-  <i>Open for internships & opportunities</i>
+  <i>Open for opportunities</i>
 </p>
 
 <p align="center">
