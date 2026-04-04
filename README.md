@@ -12,10 +12,6 @@
 
 ## 🧑‍💻 About Me
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
 **🎯 Current Role:** Full-Stack Developer & Product Thinker  
 **📍 Location:** Pune, Maharashtra, India 🇮🇳  
 **🎓 Education:** B.E. Computer Engineering @ SJRIT, Dondaicha (2023–2026)  
@@ -23,10 +19,6 @@
 **💼 Experience:** Java Development Intern @ QSpiders, Pune  
 **🚀 Goal:** Build scalable products that solve real-world problems  
 **⚡ Fun Fact:** I debug with print statements and commit with confidence 😄
-
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
 
 **What I work with:**
 - 📱 **Mobile:** Flutter
