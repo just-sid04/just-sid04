@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Siddharth Bhamare</h1>
 
+<!-- 🌊 Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Products;Full-Stack+Developer;Backend-Focused+Engineer;Flutter+%7C+React+%7C+FastAPI+%7C+Supabase" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:007CF0&height=220&section=header&text=Siddharth%20Bhamare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<h3 align="center">Full-Stack Developer | Backend-Focused Engineer</h3>
+
+<!-- ⚡ Typing -->
 <p align="center">
-  <a href="https://linkedin.com/in/sidhart9689" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Products;Real-World+Problem+Solver;Flutter+%7C+React+%7C+FastAPI+%7C+Supabase;Always+Learning+%26+Improving" />
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/sidhart9689">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:siddharthbhamare04@gmail.com">
@@ -15,7 +22,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
