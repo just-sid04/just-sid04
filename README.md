@@ -50,7 +50,7 @@ class Siddharth extends Developer {
   
   String funFact() => "I debug with print statements and commit with confidence 😄";
 }
-* * *
+
 
 ## 🛠️ Tech Stack
 
