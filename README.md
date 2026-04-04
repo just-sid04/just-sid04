@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Bhamare</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 
 <!-- 🌊 Banner -->
 <p align="center">
